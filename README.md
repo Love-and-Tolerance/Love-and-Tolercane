@@ -2,13 +2,13 @@
 
 ![L&T](https://love-tolerance.com/assets/banner.png)
 
-[![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
+[![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolercane/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Love-and-Tolercane/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
-This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
+This is a Minecraft resource pack inspired by the visual art style and design of the Twilicane. Bright colours and (moderate) cane references abound!
 
 ## Installation
 
- - Download the Love-and-Tolerance.zip from the [releases page](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest). Don't use the source code options!
+ - Download the Love-and-Tolercane.zip from the [releases page](https://github.com/Love-and-Tolerance/Love-and-Tolercane/releases/latest). Don't use the source code options!
  - Open Minecraft and navigate to the Resource Pack selection setting and click "open resource pack folder".
  - Copy/paste the downloaded zip file into your resource pack folder.
  - Go back into Minecraft, click out of then back into the resource pack selection setting (to refresh it).
@@ -18,20 +18,20 @@ This is a Minecraft resource pack inspired by the visual art style and design of
 
 This resource pack is:
 
- - Brightly coloured, rainbow hued
- - Filled with pony pictures as paintings
- - The best way to explore Equestria.
- - Compatible with Optifine and CTM textures
- - Used on the famous Brohoof Minecraft server
+ - Brightly coloured, cane hued
+ - Filled with cane pictures as paintings
+ - The best way to explore Canequestria.
+ - Compatible with Opticane and CaneTM textures
+ - Used on the famous Brohoof Minecane server
 
 ## Links
 
- - [Website](https://love-tolerance.com)
- - [Discord](https://love-tolerance.com/discord)
- - [Archive](https://love-tolerance.com/archive)
- - [GitHub](https://love-tolerance.com/github)
- - [Issues](https://love-tolerance.com/issues)
- - [Download](https://love-tolerance.com/download)
+ - [Website](https://love-tolercane.com)
+ - [Discord](https://love-tolercane.com/discord)
+ - [Archive](https://love-tolercane.com/archive)
+ - [GitHub](https://love-tolercane.com/github)
+ - [Issues](https://love-tolercane.com/issues)
+ - [Download](https://love-tolercane.com/download)
 
 ## Credits
 
@@ -51,7 +51,7 @@ This resource pack is:
 
 ## Special Thanks
 
-This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact me](mailto:velvetremedy@love-tolerance.com) to get you added.
+This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [canetact me](mailto:velvetremedy@love-tolerance.com) to get you added.
 
 So, without further ado, I would like to thank:
 
