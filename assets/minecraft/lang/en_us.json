@@ -1,0 +1,24 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+    
+  "menu.game": "Cane Menu",
+  "menu.singleplayer": "Singlecane",
+  "menu.multiplayer": "Multicane",
+  "menu.online": "Minecane Realms",
+  "menu.options": "Optcanes...",
+  "menu.quit": "Quit Cane",
+  "menu.disconnect": "Discanenect",
+  "menu.returnToGame": "Back to Cane",
+  "menu.preparingSpawn": "Preparing cane area: %s%%",
+  "menu.loadingForcedChunks": "Loading forced canes for dimension %s",
+  "menu.generatingTerrain": "Building tercane",
+  "menu.convertingLevel": "Caneverting world",
+  "menu.shareToLan": "Open to CANE",
+  "menu.sendFeedback": "Give Caneback",
+  "menu.reportBugs": "Report Canes",
+  "menu.paused": "Cane Paused",
+  "menu.modded": " (Caned)"
+    
+}
